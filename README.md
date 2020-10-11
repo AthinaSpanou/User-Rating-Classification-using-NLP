@@ -33,4 +33,4 @@ We have to mention that if one wants to run the code for the two models that con
 
 ## Report
 
-The final report for the Project can be found under the file **"ML_CA Project.pdf"**.
+The final report for the Project can be found under the file [**"ML_CA Project.pdf"**](https://github.com/AthinaSpanou/User-Rating-Classification-using-NLP/blob/main/ML_CA%20Project.pdf).
