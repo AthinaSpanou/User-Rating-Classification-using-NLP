@@ -8,11 +8,11 @@ What is more, the project extends to the creation of a Recommendation Engine bas
 
 In this repository, you will find 5 ipynb files, one for each part of the project:
 
-* 1-Data-Loading-Cleaning.ipynb: In this notebook, we import the initial dataset from Yelp.com and perform the appropriate modifications to create the final data in order to continue the analysis. To be more specific, we clean the data, keep only the meaningful columns and apply thorough text preprocessing.
-* 2-Data-Preprocessing.ipynb: In this notebook, we create tokenizer for train dataset and create input and output variables for both train and test data.
-* 3-EDA-Visualization.ipynb: In this notebook, we provide some insights from our data by creating the respective tables and plots.
-* 4-Model-Classification.ipynb: In this notebook, we apply 4 different models and construct several evaluation metrics and plots. Finally, we choose the best model according to the metric
-* 5-Recommendation-System.ipynb: In this notebook, we create the Recommendation Engine based on the review of a user.
+* [1-Data-Loading-Cleaning.ipynb](https://github.com/AthinaSpanou/User-Rating-Classification-using-NLP/blob/main/1-Data-Loading-Cleaning.ipynb): In this notebook, we import the initial dataset from Yelp.com and perform the appropriate modifications to create the final data in order to continue the analysis. To be more specific, we clean the data, keep only the meaningful columns and apply thorough text preprocessing.
+* [2-Data-Preprocessing.ipynb](https://github.com/AthinaSpanou/User-Rating-Classification-using-NLP/blob/main/2-Data-Preprocessing.ipynb): In this notebook, we create tokenizer for train dataset and create input and output variables for both train and test data.
+* [3-EDA-Visualization.ipynb](https://github.com/AthinaSpanou/User-Rating-Classification-using-NLP/blob/main/3-EDA-Visualization.ipynb): In this notebook, we provide some insights from our data by creating the respective tables and plots.
+* [4-Model-Classification.ipynb](https://github.com/AthinaSpanou/User-Rating-Classification-using-NLP/blob/main/4-Model-Classification.ipynb): In this notebook, we apply 4 different models and construct several evaluation metrics and plots. Finally, we choose the best model according to the metric
+* [5-Recommendation-System.ipynb](https://github.com/AthinaSpanou/User-Rating-Classification-using-NLP/blob/main/5-Recommendation-System.ipynb): In this notebook, we create the Recommendation Engine based on the review of a user.
 
 ## Data
 
