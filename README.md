@@ -29,7 +29,7 @@ where we get the weights of the best model.
 
 All the data are in zipped folders to shrink even more their sizes.
 
-We have to mention that if one wants to run the code for the two models that contain pre-trained embeddings (Glove & FastText), then he/she has to download the glove.6B.300d.txt for Glove Embeddings and wiki-news-300d-1M.vec for FastText Embeddings.
+We have to mention that if one wants to run the code for the two models that contain pre-trained embeddings (Glove & FastText), then he/she has to download the [glove.6B.300d.txt](https://nlp.stanford.edu/projects/glove/) for Glove Embeddings and [wiki-news-300d-1M.vec](https://fasttext.cc/docs/en/english-vectors.html) for FastText Embeddings.
 
 ## Report
 
