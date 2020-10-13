@@ -1,4 +1,4 @@
-# User-Rating-Classification-using-NLP & Creation of a Recommendation Engine
+# User Rating Classification using NLP & Creation of a Recommendation Engine
 
 The aim of this project is to Classify the Rating Stars of Restaurant Reviews from users utilising the Yelp Dataset.
 
